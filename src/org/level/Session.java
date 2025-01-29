@@ -7,7 +7,7 @@ public class Session {
 		System.out.println("success");
 		int a = 10;
 		System.out.println(a);
-		
+		System.out.println("Employee 2 added");
 
 	}
 
